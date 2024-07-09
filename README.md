@@ -22,7 +22,7 @@ The project architecture encompasses the following components:
 - **Database Management**: Implementing and managing the database with PostgreSQL.
 - **ETL Processes**: Extracting, transforming, and loading data into the PostgreSQL database.
 
-![Database Schema](path/to/drawio-diagram.png)
+![Database Schema](Data Model.drawio)
 
 ## Technologies Used
 - **Database**: PostgreSQL
